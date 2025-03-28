@@ -1,0 +1,9 @@
+Access the Web Interface
+Open a web browser and enter the URL (http://192.168.101.125/livemon) for our CheckMK instance.
+Log in using your credentials:
+username: infra
+password: 1nfr4p4zz
+
+Dashboard Overview
+Upon successful login, you will land on the dashboard.
+The dashboard provides an overview of critical information, such as host and service summary.
